@@ -1,0 +1,46 @@
+
+  
+ul{
+
+
+    dispay:table;
+    margin: 0 auto;
+    float:left;
+}
+.head{
+
+text-align: center;
+background-color: rgb(208, 255, 0);
+padding-top: 0%;
+position: relative;
+
+}
+.rating1{
+
+    top: 0px;
+    align-items:center;
+    position: relative;
+    margin: 10px;
+}
+.rating2{
+    top: 0.px;
+    align-items:center;
+    position: relative;
+    margin: 10px;
+}
+li{
+
+margin: 11px;
+
+}
+
+
+    
+
+
+
+
+ul{
+
+    text-align: center;
+}
